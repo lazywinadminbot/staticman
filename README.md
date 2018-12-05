@@ -105,3 +105,5 @@ Would you like to contribute to Staticman? That's great! Here's how:
 - [Gatsby Central](https://www.gatsbycentral.com) ([Source](https://github.com/GatsbyCentral/gatsbycentral.com))
 
 Are you using Staticman? [Let us know!](https://github.com/eduardoboucas/staticman/edit/master/README.md)
+
+
