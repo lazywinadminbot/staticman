@@ -1,0 +1,5 @@
+{
+  "githubToken": "YOUR_GITHUB_TOKEN",
+  "rsaPrivateKey": "-----BEGIN RSA PRIVATE KEY\n-----YOUR_KEY-----\nEND RSA PRIVATE KEY-----",
+  "port": 8080
+}
